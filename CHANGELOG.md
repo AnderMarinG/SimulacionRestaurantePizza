@@ -27,4 +27,5 @@ Cambios 1.2:
 
 -Se eliminan espacios innecesarios.
 
+Pendiente: Makefile
 -cambio en la ejecución, se arregló del readme.
