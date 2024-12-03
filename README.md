@@ -28,3 +28,5 @@ g++ -o main main.cpp arrayString.o Arrayclientes.o cliente.o colaPedido.o matriz
 Para ejecutarlo:
 
 .\main.exe
+
+Todas las estructuras de datos fueron creadas por mí.
